@@ -25,11 +25,11 @@
    * Linux Fedora:
        sudo dnf update
        sudo dnf install poppler-utils tesseract-ocr tesseract-ocr-ell
-
+         αν θες να το χρησιμοποιήσεις σε Debian/debian-based ίδιες εντολές αλλά με το apt διαχειριστή πακέτων
    * Windows:
        Κατέβασε και εγκατέστησε το Poppler κανονικά και βάλτο στο PATH
 
-4. USAGE EXAMPLES
+4. ΠΑΡΑΔΕΙΓΜΑΤΑ
    --------------
    - Βασική λειτουργία (δεν είναι case-sensitive, γράφεις σε αγγλικά ή/και ελληνικα):
        python main.py
